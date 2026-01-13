@@ -1,4 +1,4 @@
-# ✊✋✌️ Rock Paper Scissors – Python Game
+## ✊✋✌️ Rock Paper Scissors – Python Game
 
 A simple Python Rock Paper Scissors game where the player competes against the computer using random choices.
 
@@ -6,7 +6,7 @@ This project is part of my 100 Days of Python learning journey.
 
 --
 
-# 🎮 How to Play
+## 🎮 How to Play
 
 Type:
 
@@ -20,7 +20,7 @@ The computer randomly chooses its move.
 
 The winner is decided based on the game rules.
 
-# 🧠 Concepts Used
+## 🧠 Concepts Used
 
 random module
 
@@ -30,10 +30,10 @@ Conditional statements (if / elif / else)
 
 User input handling
 
-# ▶️ How to Run
+## ▶️ How to Run
 python app.py
 
-# 📌 Learning Purpose
+## 📌 Learning Purpose
 
 This project helped me practice:
 

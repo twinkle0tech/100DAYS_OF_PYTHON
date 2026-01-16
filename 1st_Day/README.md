@@ -1,10 +1,12 @@
-### 🎸 Band Name Generator – Python
+## Band Name Generator – Python
 
-A simple Python program that generates a fun band name based on user input.
+- A simple Python program that generates a fun band name based on user input.
 
-This project is part of my 100 Days of Python learning journey.
+- This project is part of my 100 Days of Python learning journey.
 
-### 🎯 What It Does
+---
+
+## What It Does
 
 - Asks for the name of the city you grew up in
 
@@ -12,10 +14,14 @@ This project is part of my 100 Days of Python learning journey.
 
 - Combines both to generate a band name
 
+---
+
 ### ▶️ How to Run
 `python app.py`
 
-### 🧠 Concepts Used
+---
+
+## Concepts Used
 
 - input() function
 
@@ -23,7 +29,15 @@ This project is part of my 100 Days of Python learning journey.
 
 - Basic Python syntax
 
-### 👤 Author
+---
+## Final image
+
+<img src="image.png" title=final_image>
+
+
+## Author
 
 Muskan Tamang
 Student | Learning Python
+
+---

@@ -30,7 +30,7 @@
 - Basic Python syntax
 
 ---
-## Final image
+## Final Output Image
 
 <img src="image.png" title=final_image>
 

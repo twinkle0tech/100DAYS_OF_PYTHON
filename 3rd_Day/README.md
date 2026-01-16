@@ -57,6 +57,12 @@ ASCII art in Python
 
 ---
 
+## Final Output Image
+
+<img src="image.png" title=final_image>
+
+---
+
 ## 👤 Author
 
 Muskan Tamang

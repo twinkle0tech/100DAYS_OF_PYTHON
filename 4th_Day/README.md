@@ -50,6 +50,11 @@ This project helped me practice:
 - User input validation
 
 ---
+## Final Output Image
+
+<img src="image.png" title=final_image>
+
+---
 
 # 👤 Author
 

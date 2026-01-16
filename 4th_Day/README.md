@@ -4,7 +4,7 @@ A simple Python Rock Paper Scissors game where the player competes against the c
 
 This project is part of my 100 Days of Python learning journey.
 
---
+---
 
 ## 🎮 How to Play
 
@@ -20,30 +20,40 @@ The computer randomly chooses its move.
 
 The winner is decided based on the game rules.
 
+---
+
 ## 🧠 Concepts Used
 
-random module
+- random module
 
-Lists
+- Lists
 
-Conditional statements (if / elif / else)
+- Conditional statements (if / elif / else)
 
-User input handling
+- User input handling
+
+---
 
 ## ▶️ How to Run
 python app.py
+
+---
 
 ## 📌 Learning Purpose
 
 This project helped me practice:
 
-Random number generation
+- Random number generation
 
-Game logic
+- Game logic
 
-User input validation
+- User input validation
+
+---
 
 # 👤 Author
 
 Muskan Tamang
 Student | Learning Python
+
+---

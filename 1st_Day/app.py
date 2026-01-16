@@ -1,4 +1,13 @@
 # BAND NAME GENERATOR
+print(r'''
+ _                     _ 
+| |                   | |
+| |__   __ _ _ __   __| |
+| '_ \ / _` | '_ \ / _` |
+| |_) | (_| | | | | (_| |
+|_.__/ \__,_|_| |_|\__,_|
+                         
+                         ''')
 print("Welcome To Band Name Generator")
 city=input("what's the name of the city you grew up in ?\n")
 pet=input("what's your pet name?\n")

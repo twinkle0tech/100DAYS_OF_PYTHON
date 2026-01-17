@@ -41,6 +41,8 @@ User input handling
 
 String concatenation
 
+---
+
 ### 🔑 Example Output
 
 `Your password is: aB3#9k$P`
@@ -61,8 +63,15 @@ Combining logic step-by-step
 
 ---
 
+## Final Output Image
+
+<img src="image.png" title=final_image>
+
+---
+
 ### 👤 Author
 
 Muskan Tamang
 Student | Learning Python
-Part of 100 Days of Python
+
+---

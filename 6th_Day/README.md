@@ -35,4 +35,3 @@ I solved the **Maze problem** in Reeborg's World using Python logic and conditio
 
 Muskan Tamang
 Student | Learning Python
-Part of 100 Days of Python

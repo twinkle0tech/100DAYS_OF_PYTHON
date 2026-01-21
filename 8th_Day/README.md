@@ -1,65 +1,83 @@
-✅ Caesar Cipher (Python)
+## Caesar Cipher (Python)
 
 This is a simple Caesar Cipher program made using Python.
 It can encode (encrypt) and decode (decrypt) messages by shifting letters in the alphabet.
 
-🚀 Features
+---
 
-✅ Encode text (encryption)
-✅ Decode text (decryption)
-✅ Works with spaces, numbers, and symbols (they stay unchanged)
-✅ Loop option to run again and again
+## 🚀 Features
 
-🛠️ How It Works
+- Encode text (encryption)
+- Decode text (decryption)
+- Works with spaces, numbers, and symbols (they stay unchanged)
+- Loop option to run again and again
 
-You enter a message
+  ---
 
-You enter a shift number
+## 🛠️ How It Works
 
-The program shifts each letter by that number
+- You enter a message
+
+- You enter a shift number
+
+- The program shifts each letter by that number
+  
 Example:
 hello with shift 3 → khoor
 
-▶️ How To Run
+---
 
-Make sure Python is installed.
+## ▶️ How To Run
 
-Run the program:
+- Make sure Python is installed.
 
-python main.py
+- Run the program:
 
-📌 Example
-Type 'encode' to encrypt, type 'decode' to decrypt:
+     python main.py
+
+---
+
+## 📌 Example
+
+``` Type 'encode' to encrypt, type 'decode' to decrypt:
 encode
 Type your message:
 hello
 Type the shift number:
 5
 Here is the encoded result: mjqqt
+```
+---
 
-📁 Files Used
+## 📁 Files Used
 
-main.py → Main Caesar Cipher code
+- main.py → Main Caesar Cipher code
 
-art.py → Contains the logo (ASCII art)
+- art.py → Contains the logo (ASCII art)
 
-💡 Concepts Used
+---
 
-Functions
+## 💡 Concepts Used
 
-Loops (while loop)
+- Functions
 
-Lists
+- Loops (while loop)
 
-Modulo % (to wrap alphabet)
+- Lists
 
-Condition checking
+- Modulo % (to wrap alphabet)
 
-✅ Output
+- Condition checking
 
-The program prints the final encrypted/decrypted message and asks if you want to continue.
+---
 
-⭐ Made by
+## Output
+
+<img width="668" height="585" alt="image" src="https://github.com/user-attachments/assets/4f0679f1-67f5-4def-ab36-633073864671" />
+
+---
+
+## ⭐ Made by
 
 Muskan Tamang
 Learning Python 💻🔥

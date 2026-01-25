@@ -56,7 +56,7 @@ Each day includes practice code, projects, and concepts that help me build stron
 
 - Open any day folder and run the Python file:
 
-  ` python filename.py `
+  ` python app.py `
 
 ---
 

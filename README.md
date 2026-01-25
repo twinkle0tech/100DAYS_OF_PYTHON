@@ -51,7 +51,7 @@ Each day includes practice code, projects, and concepts that help me build stron
 
 - Clone the repository:
 
- ` git clone https://github.com/your-username/100DAYS_OF_PYTHON.git `
+ ` git clone https://github.com/twinkle0tech/100DAYS_OF_PYTHON.git `
  
 
 - Open any day folder and run the Python file:

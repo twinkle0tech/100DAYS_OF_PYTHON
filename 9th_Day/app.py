@@ -1,5 +1,6 @@
 from art import logo
 print(logo)
+print("Blind Auction Project ")
 
 def find_highest_bidder(bidding_record):
     highest_bid = 0

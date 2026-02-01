@@ -3,6 +3,8 @@
 This is a simple Python project that simulates a silent auction system.
 Users can enter their name and bid amount, and the program will finally display the highest bidder.
 
+---
+
 ## 📌 Features
 
 - Accepts multiple bidders
@@ -12,6 +14,8 @@ Users can enter their name and bid amount, and the program will finally display 
 - Finds the highest bid
 
 - Displays the winner at the end
+
+---
 
 ## 🛠️ Requirements
 
@@ -23,6 +27,8 @@ Users can enter their name and bid amount, and the program will finally display 
 
 ` pip install art `
 
+---
+
 ## ▶️ How to Run
 
 - Save the file as:
@@ -33,6 +39,8 @@ Users can enter their name and bid amount, and the program will finally display 
 - Run the program:
 
 ` python main.py `
+
+---
 
 ## 💻 Program Flow
 
@@ -48,11 +56,13 @@ Users can enter their name and bid amount, and the program will finally display 
 
 - When bidding ends, it prints the winner
 
+---
+
 ## 🧾 Example
 
 <img width="694" height="733" alt="Screenshot 2026-02-01 232511" src="https://github.com/user-attachments/assets/29d2032a-176e-400b-800b-08ce3f7af77f" />
 
-
+---
 
 ## ✨ Author
 

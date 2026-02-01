@@ -50,10 +50,10 @@ Users can enter their name and bid amount, and the program will finally display 
 
 ## 🧾 Example
 
+<img width="694" height="733" alt="Screenshot 2026-02-01 232511" src="https://github.com/user-attachments/assets/29d2032a-176e-400b-800b-08ce3f7af77f" />
 
 
 
 ## ✨ Author
 
-Muskan Tamang
-Student – Assam Downtown University
+Muskan Tamang | Learning Python

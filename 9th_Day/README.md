@@ -1,6 +1,6 @@
 # Silent Auction – Python Project
 
-This is a simple Python program that simulates a silent auction system.
+This is a simple Python project that simulates a silent auction system.
 Users can enter their name and bid amount, and the program will finally display the highest bidder.
 
 ## 📌 Features

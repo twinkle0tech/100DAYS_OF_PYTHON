@@ -79,5 +79,4 @@ Here is the encoded result: mjqqt
 
 ## ⭐ Made by
 
-Muskan Tamang
-Learning Python 💻🔥
+Muskan Tamang | Learning Python 💻🔥

@@ -38,7 +38,7 @@ Users can enter their name and bid amount, and the program will finally display 
 
 - Run the program:
 
-` python main.py `
+  ` python main.py `
 
 ---
 
@@ -48,9 +48,9 @@ Users can enter their name and bid amount, and the program will finally display 
 
 - Asks user for:
 
--- name
+-> name
 
--- bid amount
+-> bid amount
 
 - Asks if there are more bidders
 

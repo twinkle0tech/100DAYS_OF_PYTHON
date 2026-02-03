@@ -49,13 +49,6 @@ Here is the encoded result: mjqqt
 ```
 ---
 
-## 📁 Files Used
-
-- main.py → Main Caesar Cipher code
-
-- art.py → Contains the logo (ASCII art)
-
----
 
 ## 💡 Concepts Used
 
@@ -79,5 +72,4 @@ Here is the encoded result: mjqqt
 
 ## ⭐ Made by
 
-Muskan Tamang
-Learning Python 💻🔥
+Muskan Tamang | Learning Python 

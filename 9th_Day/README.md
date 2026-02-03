@@ -48,9 +48,8 @@ Users can enter their name and bid amount, and the program will finally display 
 
 - Asks user for:
 
--> name
-
--> bid amount
+   -> name
+   -> bid amount
 
 - Asks if there are more bidders
 

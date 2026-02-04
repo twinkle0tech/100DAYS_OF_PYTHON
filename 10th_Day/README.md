@@ -26,5 +26,36 @@ calculations using the previous result.
 
 2. Run the program using:
 
-```bash
+```
+bash
 python main.py
+```
+---
+
+## 🧠 How It Works
+
+- The program asks the user for the first number.
+
+- It shows all available operations.
+
+- The user selects an operation and enters the next number.
+
+- The result is shown.
+
+- The user can:
+
+   - type y to continue with the same result, or
+
+   - type n to start a new calculation.
+ 
+---
+
+## output
+
+
+
+
+---
+
+## Author
+Muskan Tamang | Learning Python

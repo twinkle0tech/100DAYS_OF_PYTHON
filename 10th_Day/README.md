@@ -6,7 +6,7 @@ calculations using the previous result.
 
 ---
 
-## ✨ Features
+##  Features
 
 - Addition (+)
 - Subtraction (-)
@@ -18,7 +18,7 @@ calculations using the previous result.
 
 ---
 
-## ▶️ How to Run
+##  How to Run
 
 1. Make sure both files are in the same folder:
    - `main.py`
@@ -32,7 +32,7 @@ python main.py
 ```
 ---
 
-## 🧠 How It Works
+##  How It Works
 
 - The program asks the user for the first number.
 
@@ -52,10 +52,10 @@ python main.py
 
 ## output
 
-
-
+<img width="1104" height="675" alt="image" src="https://github.com/user-attachments/assets/ae83a78a-b7ac-431f-bc69-f7e2fefce5c8" />
 
 ---
 
 ## Author
 Muskan Tamang | Learning Python
+

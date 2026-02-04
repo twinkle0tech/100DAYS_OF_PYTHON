@@ -49,15 +49,23 @@ python main.py
  
 ---
 
+## Note
+
+- This program uses a dictionary to store operations and functions.
+
+- It also uses recursion to restart the calculator when the user chooses a new calculation.
+
+---
 
 ## output
 
-<img width="1104" height="675" alt="image" src="https://github.com/user-attachments/assets/ae83a78a-b7ac-431f-bc69-f7e2fefce5c8" />
+<img width="1000" height="600" alt="image" src="https://github.com/user-attachments/assets/ae83a78a-b7ac-431f-bc69-f7e2fefce5c8" />
 
 ---
 
 ## Author
 Muskan Tamang | Learning Python
+
 
 
 

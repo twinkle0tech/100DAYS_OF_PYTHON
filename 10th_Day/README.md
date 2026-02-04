@@ -48,13 +48,7 @@ python main.py
    - type n to start a new calculation.
  
 ---
-## Note
 
-- This program uses a dictionary to store operations and functions.
-
-- It also uses recursion to restart the calculator when the user chooses a new calculation.
-
----
 
 ## output
 
@@ -64,5 +58,6 @@ python main.py
 
 ## Author
 Muskan Tamang | Learning Python
+
 
 

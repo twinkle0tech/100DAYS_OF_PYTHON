@@ -6,7 +6,7 @@ This project is part of my 100 Days of Python learning journey.
 
 ---
 
-### 🎯 What It Does
+### What It Does
 
 - Asks how many letters, symbols, and numbers you want
 
@@ -18,7 +18,7 @@ This project is part of my 100 Days of Python learning journey.
 
 ---
 
-### ▶️ How to Run
+###  How to Run
 
 Make sure Python is installed, then run:
 
@@ -27,7 +27,7 @@ Make sure Python is installed, then run:
 
 ---
 
-### 🧠 Concepts Used
+### Concepts Used
 
 random.choice()
 
@@ -43,13 +43,13 @@ String concatenation
 
 ---
 
-### 🔑 Example Output
+###  Example Output
 
 `Your password is: aB3#9k$P`
 
 ---
 
-### 📚 Learning Purpose
+### Learning Purpose
 
 This project helped me practice:
 
@@ -69,7 +69,7 @@ Combining logic step-by-step
 
 ---
 
-### 👤 Author
+###  Author
 
 Muskan Tamang
 Student | Learning Python

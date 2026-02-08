@@ -5,7 +5,7 @@ It can encode (encrypt) and decode (decrypt) messages by shifting letters in the
 
 ---
 
-## 🚀 Features
+##  Features
 
 - Encode text (encryption)
 - Decode text (decryption)
@@ -14,7 +14,7 @@ It can encode (encrypt) and decode (decrypt) messages by shifting letters in the
 
   ---
 
-## 🛠️ How It Works
+##  How It Works
 
 - You enter a message
 
@@ -27,7 +27,7 @@ hello with shift 3 → khoor
 
 ---
 
-## ▶️ How To Run
+##  How To Run
 
 - Make sure Python is installed.
 
@@ -37,7 +37,7 @@ hello with shift 3 → khoor
 
 ---
 
-## 📌 Example
+## Example
 
 ``` Type 'encode' to encrypt, type 'decode' to decrypt:
 encode
@@ -50,7 +50,7 @@ Here is the encoded result: mjqqt
 ---
 
 
-## 💡 Concepts Used
+##  Concepts Used
 
 - Functions
 

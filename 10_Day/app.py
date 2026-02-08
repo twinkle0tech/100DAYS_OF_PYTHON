@@ -8,10 +8,8 @@ def subtract(n1, n2):
 def multiply(n1, n2):
     return n1 * n2
 
-
 def divide(n1, n2):
     return n1 / n2
-
 
 operations = {
     "+": add,
@@ -19,9 +17,6 @@ operations = {
     "*": multiply,
     "/": divide,
 }
-
-# print(operations["*"](4, 8))
-
 
 def calculator():
     print(art.logo)
@@ -44,6 +39,5 @@ def calculator():
             should_accumulate = False
             print("\n" * 20)
             calculator()
-
 
 calculator()

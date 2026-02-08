@@ -36,7 +36,13 @@ The player plays against the computer.
 - random module
 
 ---
+## Output
+
+<img width="698" height="548" alt="image" src="https://github.com/user-attachments/assets/1095b668-5b4b-481f-9a34-e6def2b6e1d3" />
+
+---
 
 ##  Author
 
 Muskan Tamang
+

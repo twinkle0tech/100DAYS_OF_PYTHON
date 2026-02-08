@@ -6,7 +6,7 @@ I solved the **Maze problem** in Reeborg's World using Python logic and conditio
 
 ---
 
-## 📌 What This Code Does
+##  What This Code Does
 
 - Moves the robot forward until it finds a wall  
 - Turns left to start solving the maze  
@@ -16,7 +16,7 @@ I solved the **Maze problem** in Reeborg's World using Python logic and conditio
 - Else → turn left  
 
 ---
-## ⭐ Learning Outcome
+##  Learning Outcome
 
 - Functions in Python
 
@@ -31,7 +31,7 @@ I solved the **Maze problem** in Reeborg's World using Python logic and conditio
 <video controls src="demo_video.mp4" title="Title"></video>
 
 
-### 👤 Author
+###  Author
 
 Muskan Tamang
 Student | Learning Python

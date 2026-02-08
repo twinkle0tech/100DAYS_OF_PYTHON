@@ -6,7 +6,7 @@ This project is part of my 100 Days of Python learning journey.
 
 ---
 
-## 🎮 How to Play
+##  How to Play
 
 Type:
 
@@ -22,7 +22,7 @@ The winner is decided based on the game rules.
 
 ---
 
-## 🧠 Concepts Used
+##  Concepts Used
 
 - random module
 
@@ -34,12 +34,12 @@ The winner is decided based on the game rules.
 
 ---
 
-## ▶️ How to Run
+##  How to Run
 python app.py
 
 ---
 
-## 📌 Learning Purpose
+##  Learning Purpose
 
 This project helped me practice:
 
@@ -56,7 +56,7 @@ This project helped me practice:
 
 ---
 
-# 👤 Author
+#  Author
 
 Muskan Tamang
 Student | Learning Python

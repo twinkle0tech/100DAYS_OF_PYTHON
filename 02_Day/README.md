@@ -6,7 +6,7 @@
 
 ---
 
-## 🎯 What It Does
+##  What It Does
 
 - Takes the total bill amount
 
@@ -18,13 +18,13 @@
 
 ---
 
-## ▶️ How to Run
+##  How to Run
 
 `python app.py`
 
 ---
 
-## 🧠 Concepts Used
+##  Concepts Used
 
 - User input with input()
 
@@ -42,7 +42,7 @@
 
 ---
 
-## 👤 Author
+##  Author
 
 Muskan Tamang
 Student | Learning Python

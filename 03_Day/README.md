@@ -7,7 +7,7 @@ This project is part of my 100 Days of Python learning journey.
 
 ---
 
-## 🎯 Game Objective
+## Game Objective
 
 - Navigate through a jungle adventure
 
@@ -17,7 +17,7 @@ This project is part of my 100 Days of Python learning journey.
 
 ---
 
-## 🕹️ How the Game Works
+##  How the Game Works
 
 The game starts with an ASCII art introduction.
 
@@ -33,7 +33,7 @@ Based on the choices, the story progresses or ends.
 
 ---
 
-## ▶️ How to Run the Game
+## How to Run the Game
 
 Make sure Python is installed, then run:
 
@@ -41,7 +41,7 @@ python app.py
 
 ---
 
-## 🧠 Concepts Used
+## Concepts Used
 
 print() statements
 
@@ -63,7 +63,7 @@ ASCII art in Python
 
 ---
 
-## 👤 Author
+##  Author
 
 Muskan Tamang
 Student | Learning Python

@@ -1,11 +1,11 @@
-# 🎮 Hangman Game (Python)
+#  Hangman Game (Python)
 
 This is a simple **Hangman game** made using Python.  
 The program randomly selects a word and you have to guess it letter by letter before you lose all lives.
 
 ---
 
-## ✅ Features
+##  Features
 - Random word selection
 - 6 lives system
 - Shows guessed letters
@@ -14,7 +14,7 @@ The program randomly selects a word and you have to guess it letter by letter be
 
 ---
 
-## 📂 Files Used
+## Files Used
 This project uses 3 files:
 
 - `main.py` → main game code  
@@ -23,7 +23,7 @@ This project uses 3 files:
 
 ---
 
-## 🧠 Functions / Modules Used
+##  Functions / Modules Used
 Some important things used in this project:
 
 - `random.choice()` → to randomly pick a word from the list
@@ -37,7 +37,7 @@ Some important things used in this project:
 
 ---
 
-## ▶️ How to Run
+##  How to Run
 1. Open the folder in VS Code / PyCharm
 2. Run the file:
 
@@ -47,7 +47,7 @@ python main.py
 ```
 ---
 
-## 🕹️ How to Play
+##  How to Play
 
 - The game will show blanks like _ _ _ _
 
@@ -59,7 +59,7 @@ python main.py
 
 ---
 
-## ✅ Output
+## Output
 
 - Lives left will be shown like: 6/6 LIVES LEFT
 
@@ -72,7 +72,7 @@ python main.py
 
 ---
 
-### 👤 Author
+###  Author
 
 Muskan Tamang
 Student | Learning Python

@@ -8,7 +8,6 @@ HARD_LEVEL_TURNS = 5
 
 # Function to check users guess against actual answer
 def check_answer(user_guess, actual_answer, turns):
-    """Checks answer against guess, returns the number of turns remaining."""
     if user_guess > actual_answer:
         print("Too high.")
         return turns - 1
@@ -51,8 +50,6 @@ def game():
             return
         elif guess != answer:
             print("Guess again.")
-
-
 
 
 game()
